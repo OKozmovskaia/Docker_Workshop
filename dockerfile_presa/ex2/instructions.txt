@@ -1,0 +1,4 @@
+
+For this exercise, you'll have to clone this repo https://github.com/abrenaut/posio and to write a 
+Dockerfile to containerize it. To help you, the creator put instructions to make it work by 
+classical way. It will be your job to figure out how to make it work in a container. Good luck!
