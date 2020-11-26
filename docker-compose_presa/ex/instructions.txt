@@ -2,5 +2,7 @@
 For this exercise, you'll have to write a docker-compose.yml file able to deploy at the same time the "webpage"
 in nginx_website on nginx image directory on port 7070 and the one in apache_website from an apache image (not the image name) on port 6060.
 
-useful links: -https://docs.docker.com/compose/compose-file/ (basic commands)
+useful links: -https://docs.docker.com/compose/install/ (install docker-compose)
+	      -https://docs.docker.com/compose/compose-file/ (basic commands)
 	      -https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-fr (French)
+              -https://docs.docker.com/compose/reference/ (commands explained)
